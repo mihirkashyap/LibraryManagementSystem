@@ -2,6 +2,10 @@
 
 @author Mihir Kashyap
 
+YouTube : https://youtu.be/GO8PC8WqnMo
+
+
+
 Hello Developers! This is all about the project Library Management System based on Harry Potter Theme developed in Netbeans using JFrames (java) and Database (MySQL).
 
 Maintaining the book exchange data of the library and keeping it's record is time consuming process and labour intensive work. Solving it with the help of a Program can release the stress of tallying the books and paperworks everyday before closing the library. This automated system needs only small user input to come operational effectively. This software can arrange the books according to the authors, title and categories. This can become easy in searching a particular book quickly. 
@@ -23,9 +27,9 @@ Step 4: Add provided jar files carefully into the IDE
 
 Step 5: Make sure every background image path's defined in element's icon else have to locate every img file individually for each design element.
 
-Step 6: Now make sure to give a check to javaconnect that it's working (check for the suitable database path location provided in [jdbc:sqlite:"PATH/database_name.(db/sqlite)"]
+Step 6: Now make sure to give a check to javaconnect that it's working (check for the suitable database path location provided in [jdbc:sqlite:"PATH/database_name.(db/sqlite)"])
 
 Step 7: Run the program
 
 
-Welcome to New ideas, folks!
+Always welcome "New ideas" folks!
